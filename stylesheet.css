@@ -4,8 +4,8 @@
     max-width: 70%;
     margin-left: auto;
     margin-right: auto;
-    -webkit-filter: drop-shadow(10px 10px 10px #727272);
-    filter: drop-shadow(10px 10px 10px #727272);
+    -webkit-filter: drop-shadow(1px 1px 3px #222);
+    filter: drop-shadow(1px 1px 10px #222);
 
     /*
     padding: 70px 0;
@@ -29,8 +29,8 @@
 .coloured-box{
     max-width: 100%;
     border-radius: 5%;
-    -webkit-filter: drop-shadow(5px 5px 5px #222);
-    filter: drop-shadow(5px 5px 5px #222);
+    -webkit-filter: drop-shadow(1px 1px 10px #222);
+    filter: drop-shadow(1px 1px 10px #222);
     
     /* border: 3px solid rgb(161, 0, 0); */
 }
