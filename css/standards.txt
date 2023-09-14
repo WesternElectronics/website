@@ -1,0 +1,2 @@
+Main elements / main blue: #33a3fb
+ - hover: #3c87c2
